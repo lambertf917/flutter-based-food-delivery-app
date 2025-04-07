@@ -16,7 +16,7 @@
     "@types/react": "^17.0.24",
     "amplitude-js": "^8.14.1",
     "autosuggest-highlight": "^3.1.1",
-    "clsx": "^1.1.1",
+    "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
     "env-cmd": "^10.1.0",
     "firebase": "^11.4.0",
