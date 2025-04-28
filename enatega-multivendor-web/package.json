@@ -29,7 +29,7 @@
     "react": "^17.0.2",
     "react-calendar": "^5.1.0",
     "react-dom": "^19.0.0",
-    "react-geocode": "^0.2.2",
+    "react-geocode": "^2.0.1",
     "react-google-login": "^5.2.2",
     "react-i18next": "^15.4.1",
     "react-mentions": "^4.3.1",
