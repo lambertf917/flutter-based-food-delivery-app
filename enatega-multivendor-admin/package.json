@@ -84,7 +84,7 @@
     "husky": "^9.1.7",
     "lint-staged": "^15.4.3",
     "prettier": "2.0.5",
-    "prettier-config-standard": "^1.0.1",
+    "prettier-config-standard": "^7.0.0",
     "typescript": "3.3.3333"
   }
 }
