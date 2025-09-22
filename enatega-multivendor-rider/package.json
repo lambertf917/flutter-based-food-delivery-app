@@ -96,7 +96,7 @@
     "@expo/metro-config": "~0.19.12",
     "babel-preset-expo": "~11.0.0",
     "eslint": "^9.20.1",
-    "eslint-config-standard": "^14.1.1",
+    "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
